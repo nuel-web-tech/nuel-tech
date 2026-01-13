@@ -8,8 +8,8 @@ Welcome to **Nuel Tech Hub**, a professional demo website created to showcase th
 ## 🌐 Live Demo
 
 The website is live at:  
-
-
+https://nuel-web-tech.github.io/nuel-tech/
+https://nuel-web-tech.github.io/Nuel-demo2/
 ---
 
 ## 🧱 Project Overview
